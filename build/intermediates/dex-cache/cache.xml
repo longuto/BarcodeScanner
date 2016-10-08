@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\libs\commons-logging-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\pre-dexed\debug\commons-logging-1.1.1_dca0203f04613349e192ec5cf6d4f114514e4f5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\libs\core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\pre-dexed\debug\core-3.1.1-SNAPSHOT_0a04e6699dbd2ca1f31cde68c4dda313fa270883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_b16dda64f2fb7e99e725e057c19900b3d2c945c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\libs\android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\pre-dexed\debug\android-core-3.1.1-SNAPSHOT_22aec5b9dc4866d91c300b5ed2dcc8d9218abe3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="D:\AndroidStudio\AndroidStudioWorkspaces\BarcodeScanner\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_87523a14a7d578fc677284b996409c44f3f79efe.jar" />
+    </item>
+
+</items>

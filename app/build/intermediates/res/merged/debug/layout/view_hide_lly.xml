@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+    <TextView
+        android:id="@+id/capture_scan_photo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:gravity="center"
+        android:layout_margin="2dp"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:text="@string/capture_scan_photo" />
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cutLine"
+        />
+     <TextView
+	    android:id="@+id/tv_encodeQr"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+		android:clickable="true"
+		android:gravity="center"
+		android:layout_margin="2dp"
+		android:textSize="16sp"
+		android:textColor="@android:color/black"
+	    android:text="@string/encodeQr" />
+     <View 
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/cutLine"
+        />
+     <TextView
+	    android:id="@+id/capture_flashlight"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+		android:clickable="true"
+		android:gravity="center"
+		android:layout_margin="2dp"
+		android:textSize="16sp"
+		android:textColor="@android:color/black"
+	    android:text="@string/capture_flashlight" />
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/cutLine"
+        />
+     <TextView
+	    android:id="@+id/tv_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+		android:clickable="true"
+		android:gravity="center"
+		android:layout_margin="2dp"
+		android:textSize="16sp"
+		android:textColor="@android:color/black"
+	    android:text="@string/cancel" />
+</LinearLayout>
